@@ -35,8 +35,10 @@ class SteamAPI {
         // }
 
             foreach (var game in result.response.games) {
-                Console.WriteLine((string)Convert.ToString(game.name));
-                Console.WriteLine((string)Convert.ToString(game.appid));
+                Console.WriteLine((string)Convert.ToString("Game ID: " + game.appid));
+                Console.WriteLine((string)Convert.ToString("Game: " + game.name));
+                Console.WriteLine((string)Convert.ToString("Minutes in Game: " + game.playtime_forever));
+                Console.WriteLine("----------------------------------------------------------");
             }
         }
     }
