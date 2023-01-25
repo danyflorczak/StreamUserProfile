@@ -1,4 +1,4 @@
-Tutaj bedzie info co zrobione a co trzeba zrobic 
+Tutaj bedzie info co zrobione a co trzeba zrobic  </br>
 1.Trzeba stworzyć klasy reprezetujace profil gracza i dane gry, a następnie użyć API Steam do wypełnienia tych klas odpowiednimi informacjami.
 Aby importować i eksportować dane z pliku XML, można użyć wbudowanych klas C#, takich jak XmlSerializer i XmlReader/XmlWriter, do odczytu i zapisu danych do pliku.</br>
 2.Aby importować i eksportować dane do i z pliku JSON, można użyć popularnej biblioteki C#, takiej jak Newtonsoft.Json, która obsługuje konwersję danych do i z JSON.</br>
