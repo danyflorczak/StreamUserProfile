@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "f7Mcba3WLjOgQW85OAoPA41FUJhWX15o4ECFUBvq8RzItGV92OhV8s5oTtH1Ydw6gKvMTkUW2YBiAUlVEjFPGg==",
+  "dgSpecHash": "W4WIQolayg0SzWpMV4SEnc5miSva1INF1X23beV2420MEy1jxzTDi04Q2QIK9L1xAKKF/lIwvwApNmDr9VGzOw==",
   "success": true,
   "projectFilePath": "/Users/danielflorczak/Desktop/side_projects/steam_profile_project/steam_profile_project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/danielflorczak/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

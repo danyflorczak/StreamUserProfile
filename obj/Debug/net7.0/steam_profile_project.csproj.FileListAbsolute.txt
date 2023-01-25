@@ -13,3 +13,5 @@
 /Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.pdb
 /Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.genruntimeconfig.cache
 /Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/ref/steam_profile_project.dll
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.csproj.CopyComplete
