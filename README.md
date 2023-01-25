@@ -1,0 +1,1 @@
+Tutaj bedzie info co zrobione a co trzeba zrobic 

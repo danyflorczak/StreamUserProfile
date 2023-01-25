@@ -1,0 +1,15 @@
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/bin/Debug/net7.0/steam_profile_project
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/bin/Debug/net7.0/steam_profile_project.deps.json
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/bin/Debug/net7.0/steam_profile_project.runtimeconfig.json
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/bin/Debug/net7.0/steam_profile_project.dll
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/bin/Debug/net7.0/steam_profile_project.pdb
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.csproj.AssemblyReference.cache
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.AssemblyInfoInputs.cache
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.AssemblyInfo.cs
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.csproj.CoreCompileInputs.cache
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.dll
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/refint/steam_profile_project.dll
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.pdb
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/steam_profile_project.genruntimeconfig.cache
+/Users/danielflorczak/Desktop/side_projects/steam_profile_project/obj/Debug/net7.0/ref/steam_profile_project.dll
