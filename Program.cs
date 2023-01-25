@@ -43,14 +43,14 @@ namespace SteamAPI
                 if (json == null)
                 {
                     Console.WriteLine("Error gettingdata");
-return profile;
-}
+                    return profile;
+                }
             dynamic result = JsonConvert.DeserializeObject(json) ?? throw new ArgumentException("Błąd");
             if (result?(json == null)
-{
-MessageBox.Show("Error getting data");
-return profile;
-}
+            {
+            MessageBox.Show("Error getting data");
+            return profile;
+            }
             dynamic result = JsonConvert.DeserializeObject(json) ?? throw new ArgumentException("Błąd");
             if (result?.response?.games == null)
             {
