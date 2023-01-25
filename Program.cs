@@ -16,7 +16,7 @@ namespace SteamAPI
             UserProfile profile = await CreateAndFillUserProfile(steamId, apiKey);
 
             // export UserProfile object to XML file
-            XmlSerializer serializer = new XmlSerializer(typeof(gameProfile));
+            XmlSerializer serializer = new XmlSerializer(typeof(UserProfile));
             using (FileStream stream = new FileStream("UserProfile.xml", FileMode.Create))
             {
                 serializer.Serialize(stream, profile);
@@ -40,9 +40,9 @@ namespace SteamAPI
             using (HttpClient client = new HttpClient())
             {
                 var json = await client.GetStringAsync(url);
-                if (json == null)
+                if (result == null || json == null)
                 {
-                    Console.WriteLine("Error gettingdata");
+                    MessageBox.Show("Error getting data");
                     return profile;
                 }
             dynamic result = JsonConvert.DeserializeObject(json) ?? throw new ArgumentException("Błąd");
