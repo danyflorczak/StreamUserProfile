@@ -5,3 +5,15 @@ Aby importować i eksportować dane z pliku XML, można użyć wbudowanych klas 
 3.Aby importować i eksportować dane z bazy danych, możesz użyć biblioteki C#, takiej jak ADO.NET lub Entity Framework, aby połączyć się z bazą danych i użyć poleceń SQL do pobierania i przechowywania danych. </br>
 4.Jesli to ma być dla jednego profilu który masz z góry wyznaczony to jest mniejszy problem bo wystarczy ze podmienisz steamId (to powinienes miec na profilu steama) i apiKey(to sie pewnie jakos generuje czy cos) a jak masz miec mozliwosc ze uzytkownik ma podac swoj steam id i na podstawie tego ma sie wykonac reszta to trzeba sie bawic w jakies intefejsy i robic web apke albo konsolowa w zaleznosci co tam wam wykladowca powiedzial.
 
+
+## DONE
+- [ X ] Change api to be more flexible and secure
+- [ X ] Make emails work on heroku
+- [ X ] Write more tests 
+
+## TO DO's
+
+- [ ] Change api to be more flexible and secure
+- [ ] Make emails work on heroku
+- [ ] Write more tests 
+
