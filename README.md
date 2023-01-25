@@ -20,7 +20,7 @@
 
 ## QA
 - Czy mamy gdzies wyswietlac UserProfile z danymi ktore znalezlismy czy tak jak bylo napisane po prostu stworzyc jakis endpoint ktory bedzie to udostepnial? </br>
-- Czy masz robic web apke czy to moze byc apka konsolowa ? </br>
+- Czy masz robic web apke z interfejsem czy to moze byc apka konsolowa ? </br>
 - Czy wiesz gdzie ty masz exportowac pliki xml i wgl gdzie to ma byc i jako co bo zakladam ze chcemy gdzies exportowac ten UserProfile ktory tworzymy </br>
 - Ile masz na to czasu ?
 
