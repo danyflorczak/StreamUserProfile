@@ -7,9 +7,9 @@ Aby importować i eksportować dane z pliku XML, można użyć wbudowanych klas 
 
 
 ## DONE
-- [ X ] Change api to be more flexible and secure
-- [ X ] Make emails work on heroku
-- [ X ] Write more tests 
+- [x] Change api to be more flexible and secure
+- [x] Make emails work on heroku
+- [x] Write more tests 
 
 ## TO DO's
 
